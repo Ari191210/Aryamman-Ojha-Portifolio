@@ -234,14 +234,15 @@ body {
   }
 /* Light Mode Styles */
 /* Achievements Section - Dark Mode (Default) */
-.achievements ul li {
+.achievements {
   color: #f3f4f6; /* Light text for dark mode */
 }
 
 /* Achievements Section - Light Mode */
-body.light-mode .achievements ul li {
+body.light-mode .achievements {
   color: #121212; /* Dark text for light mode */
 }
+
 
 body.light-mode {
     background-color: #e1e1e6; /* Light background */
