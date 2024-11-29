@@ -233,6 +233,16 @@ body {
     font-size: 0.9rem;
   }
 /* Light Mode Styles */
+/* Achievements Section - Dark Mode (Default) */
+.achievements ul li {
+  color: #f3f4f6; /* Light text for dark mode */
+}
+
+/* Achievements Section - Light Mode */
+body.light-mode .achievements ul li {
+  color: #121212; /* Dark text for light mode */
+}
+
 body.light-mode {
     background-color: #e1e1e6; /* Light background */
     color: #121212; /* Dark text color */
