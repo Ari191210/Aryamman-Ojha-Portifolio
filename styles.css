@@ -251,7 +251,7 @@ body.light-mode {
   }
   
   body.light-mode .wave-container {
-    background-color: #e0e0e0; /* Lighter wave background */
+    background-color: #000000; /* Lighter wave background */
   }
   
   body.light-mode form input,
@@ -274,7 +274,7 @@ body.light-mode {
   }
   
   body.light-mode .projects a {
-    color: #4f46e5; /* Link color */
+    color: #000000; /* Link color */
   }
   
   body.light-mode .projects a:hover {
@@ -288,7 +288,7 @@ body.light-mode {
   /* Scroll to Top Button for Light Mode */
   body.light-mode .scroll-to-top {
     background-color: #4f46e5;
-    color: white;
+    color: black;
   }
   
   body.light-mode .scroll-to-top:hover {
