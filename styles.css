@@ -243,7 +243,10 @@ body.light-mode .achievements {
   color: #121212; /* Dark text for light mode */
 }
 
-
+body.light-mode .achievements ul {
+    font-size: 1.1rem;
+    color: #000000;
+  }
 body.light-mode {
     background-color: #e1e1e6; /* Light background */
     color: #121212; /* Dark text color */
